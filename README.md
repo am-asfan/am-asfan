@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Mohomed Asfan
 
-<!--
-**am-asfan/am-asfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Undergraduate passionate about Full-Stack Development, UI/UX, Cloud Engineering, and DevOps.  
+I enjoy building practical systems, solving real problems and learning through projects and community work.
 
-Here are some ideas to get you started:
+📚 Learning | 🛠️ Building | 📈 Growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Fields of Interest
+- Full-Stack Application Development
+- UI/UX Design
+- Cloud Engineering
+- DevOps Practices
+- System & Server Administration
+
+---
+
+## 🛠️ Technical Skills
+
+### 🌐 Web Technologies
+HTML • CSS • JavaScript • PHP • WordPress
+
+### ⚙️ Frameworks & Libraries
+Bootstrap • React • Laravel
+
+### 🗄️ Database
+MySQL
+
+### 💻 Programming Languages
+Python • C • Java • Bash
+
+### 🎨 Design Tools
+Figma • Photoshop • Illustrator • InDesign • Canva • Adobe XD
+
+### 🖥️ Operating Systems & Server
+Windows • Linux • Ubuntu Server • Apache • Samba • UFW
+
+### 🔁 DevOps & Tools
+Git • GitHub • Docker • VS Code
+
+---
+
+## 🚀 Projects
+- 🏠 Home Lab Server Stack (LAMP)
+- 🏫 Hostel Management System (University Project)
+
+---
+
+## 📬 Contact
+📧 meetasfan@gmail.com
